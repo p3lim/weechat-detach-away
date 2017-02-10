@@ -11,7 +11,7 @@ except ImportError:
 
 from urllib import urlencode
 
-SCRIPT_NAME = 'detach-away'
+SCRIPT_NAME = 'detach_away'
 SCRIPT_AUTHOR = 'p3lim'
 SCRIPT_VERSION = '0.1.0'
 SCRIPT_LICENSE = 'MIT'
