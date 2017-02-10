@@ -6,7 +6,7 @@ A [WeeChat](https://weechat.org/) plugin that automatically sets the user as awa
 
 In WeeChat install the script by typing the following:
 ```
-/script install detach-away.py
+/script install detach_away.py
 ```
 
 ### Options
