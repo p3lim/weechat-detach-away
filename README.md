@@ -1,4 +1,4 @@
-# weechat-pushjet
+# weechat-detach-away
 
 A [WeeChat](https://weechat.org/) plugin that automatically sets the user as away if there are no relay clients connected, and clears the away status if connected.
 
